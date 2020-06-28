@@ -1,4 +1,4 @@
-# Student Account System (text-based)
+# Student Account System (Commandline Interface)
 ## Lunch money system task
 You must design a system to store the amount of money a student has for lunch and to carry out the top up and purchase processes involved in a schools lunch system.
 Your program must include the following:
@@ -45,3 +45,4 @@ Salad	|£1.60|
 Dessert|	£1.00|
 Jacket potato|	£1.00|
 
+*This was a project set by my teacher*
